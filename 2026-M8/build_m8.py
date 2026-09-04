@@ -22,7 +22,7 @@ M8_CONTENT = {
     "stats": {
         "launched": 6,      # 已上线项目数
         "in_progress": 4,   # 进行中项目数
-        "ai_ratio": "78%"   # AI服务占比
+        "ai_ratio": "76%"   # AI服务占比
     },
     "launched_projects": [
         {
